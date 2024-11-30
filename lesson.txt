@@ -1,0 +1,47 @@
+ <html>
+<head> <title> second quarter e-portfolio </title> </head>
+<link rel="stylesheet" href="linkport2.css" type="text/css">
+<style>
+#td1 {
+color: white;
+text-align:center;
+}
+
+</style>
+
+<body class="body">
+<table border="3" 
+bgcolor="white"
+style="border-radius: 10px; 
+border-color: #956fae; 
+border-style: solid;
+border-collapse: separate;
+border-spacing: 0;" 
+align="center" 
+cellpadding="10"
+width="1200"> <tr> <td>
+
+
+<table border="3" 
+bgcolor="white"
+style="border-radius: 10px; 
+border-color: #956fae; 
+border-style: solid;
+border-collapse: separate;
+border-spacing: 0;" 
+align="center" 
+cellspacing="10" 
+cellpadding="10"
+width="1200">
+
+<tr><td bgcolor="#fcfbf7" colspan="3"> second qrt e-portfolio </td> <td bgcolor="#fcfbf7" align="right"> ←back  next→  ↻home</td> </tr>
+
+<tr bgcolor="#fcfbf7"> <td width="300"> <img src="me2.png" alt="baby jewel" width="300" height="300" align="center"> <br><br> <b> Angelique Jewel Lim || 9 fairness <br> </b> </td>  <td colspan="3" width="900"> <b> LESSONS </b> </tr>
+</table>
+</td> </tr> </table>
+
+
+
+</table>
+</body>
+</html>

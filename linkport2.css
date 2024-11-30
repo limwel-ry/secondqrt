@@ -1,0 +1,17 @@
+.body {
+background-image:url('bg.jpg');
+float:center;
+font-family:"Monaco",Monospace;
+}
+
+.table {
+border-radius: 10px; 
+border-color: #956fae; 
+border-style: solid;
+border-collapse: separate;
+border-spacing: 0;  
+}
+
+.img {
+width:350;
+height:300;}
